@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week-Nine-Task</string>
+    <string name="some_name">Some Name</string>
+    <string name="some_title">some title</string>
+    <string name="error_fetching_data">Error fetching Data</string>
+    <string name="offline">You\'re offline, turn on network</string>
+    <string name="message_failed">Message failed</string>
+</resources>
